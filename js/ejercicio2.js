@@ -3,7 +3,7 @@
 /* 
 Utilizando un bucle mostrar la suma y l amedia de los numeros intriducidos
 hasta intriducir un numero negativo y ahi mostrar el resultado
-*/
+ewfw*/
 
 
 var suma = 0;
