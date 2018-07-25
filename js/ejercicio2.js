@@ -21,3 +21,7 @@ do{
 
 	console.log('la suma '+contador+' es: '+suma);
 }while(numero >= 0)
+
+
+console.log('la suma total es '+suma);
+console.log('la media es '+(suma/contador));
