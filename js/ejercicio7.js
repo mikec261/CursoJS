@@ -2,9 +2,6 @@
 /*
  Tabal de multiplicar de un numero introducido por pantalla
  */
-
-
-
  var numero = parseInt(prompt('de que numero quieres la tabla?'));
 
 
@@ -19,18 +16,14 @@
 
 
  /*
-
  	Todas las tablas
  */
 
 var cont=1;
  do{
-
- 	 for(var i=0; i<=10 ; i++)
+ 	for(var i=0; i<=10 ; i++)
  	{
  		document.write(i+' * '+cont+' = '+(i*cont)+'<br>');
  	}
-
  	cont++;
-
  }while(cont<=10)
